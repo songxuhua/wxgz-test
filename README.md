@@ -1,2 +1,2 @@
-# hzytest
+# wxgz-test
 test detail
