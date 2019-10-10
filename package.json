@@ -8,12 +8,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/HZYDZT/hzytest"
+        "url": "git+https://github.com/songxuhua/wxgz-test"
     },
     "author": "宋旭华",
     "license": "ISC",
     "bugs": {
-        "url": "(https://github.com/HZYDZT/hzytest/issues"
+        "url": "(https://github.com/songxuhua/wxgz-test/issues"
     },
-    "homepage": "(https://github.com/HZYDZT/hzytest#readme"
+    "homepage": "(https://github.com/songxuhua/wxgz-test#readme"
 }
