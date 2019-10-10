@@ -1,19 +1,22 @@
 {
-    "name": "@wxgz.test/react-native-wxgz-test",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/songxuhua/wxgz-test"
-    },
-    "author": "宋旭华",
-    "license": "ISC",
-    "bugs": {
-        "url": "(https://github.com/songxuhua/wxgz-test/issues"
-    },
-    "homepage": "(https://github.com/songxuhua/wxgz-test#readme"
+  "name": "react-native-wxgz-test",
+  "version": "1.0.0",
+  "description": "test detail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songxuhua/wxgz-test.git"
+  },
+  "author": "宋旭华",
+  "license": "ISC",
+  "homepage": "http://(https://github.com/songxuhua/wxgz-test#readme",
+  "keywords": [
+    "wxgz"
+  ],
+  "bugs": {
+    "url": "https://github.com/songxuhua/wxgz-test/issues"
+  }
 }

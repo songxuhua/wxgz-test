@@ -12,6 +12,8 @@
 		DC9AEE6B234ED71600DEF374 /* wxgzReactNativeTest.h in Headers */ = {isa = PBXBuildFile; fileRef = DC9AEE5D234ED71600DEF374 /* wxgzReactNativeTest.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DC9AEE76234ED74200DEF374 /* ReactNativeCManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DC9AEE74234ED74200DEF374 /* ReactNativeCManager.h */; };
 		DC9AEE77234ED74200DEF374 /* ReactNativeCManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DC9AEE75234ED74200DEF374 /* ReactNativeCManager.m */; };
+		DC9AEE8B234F035900DEF374 /* RNManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DC9AEE89234F035900DEF374 /* RNManager.h */; };
+		DC9AEE8C234F035900DEF374 /* RNManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DC9AEE8A234F035900DEF374 /* RNManager.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,6 +35,8 @@
 		DC9AEE6A234ED71600DEF374 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DC9AEE74234ED74200DEF374 /* ReactNativeCManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReactNativeCManager.h; sourceTree = "<group>"; };
 		DC9AEE75234ED74200DEF374 /* ReactNativeCManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReactNativeCManager.m; sourceTree = "<group>"; };
+		DC9AEE89234F035900DEF374 /* RNManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNManager.h; sourceTree = "<group>"; };
+		DC9AEE8A234F035900DEF374 /* RNManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNManager.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +82,8 @@
 				DC9AEE5D234ED71600DEF374 /* wxgzReactNativeTest.h */,
 				DC9AEE74234ED74200DEF374 /* ReactNativeCManager.h */,
 				DC9AEE75234ED74200DEF374 /* ReactNativeCManager.m */,
+				DC9AEE89234F035900DEF374 /* RNManager.h */,
+				DC9AEE8A234F035900DEF374 /* RNManager.m */,
 				DC9AEE5E234ED71600DEF374 /* Info.plist */,
 			);
 			path = wxgzReactNativeTest;
@@ -101,6 +107,7 @@
 			files = (
 				DC9AEE6B234ED71600DEF374 /* wxgzReactNativeTest.h in Headers */,
 				DC9AEE76234ED74200DEF374 /* ReactNativeCManager.h in Headers */,
+				DC9AEE8B234F035900DEF374 /* RNManager.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -201,6 +208,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DC9AEE77234ED74200DEF374 /* ReactNativeCManager.m in Sources */,
+				DC9AEE8C234F035900DEF374 /* RNManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
